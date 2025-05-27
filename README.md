@@ -23,8 +23,8 @@ Before starting the project, ensure you have the following tools and configurati
    * For dashboard development and reporting
 4. **Project Files**
 
-   * `source_oltp_data.sql`: Script to populate OLTP database
-   * `create_dwh_schema.sql`: Script to create Data Warehouse schema
+   * `load_source_data.sql`: Script to populate OLTP database
+   * `create_DWH.sql`: Script to create Data Warehouse schema
    * SSIS project for ETL
 5. **Basic Knowledge**
 
